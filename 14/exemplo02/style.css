@@ -1,0 +1,26 @@
+.icone {
+    width: 150px;
+}
+
+h1 {
+    font-size: 66px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.simples {
+    background-color: mediumslateblue;
+    color: white;
+    border: 2px solid black;
+    margin: 50px;
+}
+
+.personalizada {
+    border-top: 3px dotted green;
+    border-right: 4px double red;
+    border-bottom: 1px solid blueviolet;
+    border-left: 16px solid orange;
+    margin: 50px;
+    background-color: lightgray;
+    color: black;
+}
