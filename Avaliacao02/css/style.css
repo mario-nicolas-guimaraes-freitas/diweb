@@ -1,0 +1,129 @@
+img {
+    width: 60%;
+    border-radius: 25px;
+}
+
+
+
+div{
+    text-align: center;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: rgb(54, 15, 15);
+}
+
+
+
+h2 {text-align: center;
+    background-color: rgb(54, 15, 15);
+    color: white;
+    margin: auto;
+    font-size: 30px;
+}
+
+
+
+h3{
+    color: rgb(54, 15, 15);
+    font-size: 20px;
+    margin-left: 100px;
+    padding-bottom: 25px;
+}
+
+
+
+h4{
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 30px;
+    color: rgb(54, 15, 15);
+}
+
+
+
+p{
+    text-align: justify;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: rgb(54, 15, 15);
+}
+
+
+
+ul {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: rgb(54, 15, 15);
+}
+
+
+
+ol {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: rgb(54, 15, 15);
+}
+
+
+
+li{
+    margin-bottom: 10px;
+}
+
+
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 3px;
+    background-color: rgb(160, 0, 0);
+}
+
+
+
+.titleBox {
+    background-color: white;
+    color: rgb(54, 15, 15);
+}
+
+
+
+.linkText{
+    color: rgb(54, 15, 15);
+}
+
+
+
+.linkBox {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.blackBox{
+    padding: 5px;
+    background-color: black;
+    color: rgb(143, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    border-radius: 10px;
+}
+
+
+
+.text {
+    margin-right: 10%;
+    margin-left: 10%;
+    color: rgb(54, 15, 15);
+}
